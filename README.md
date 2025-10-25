@@ -48,3 +48,5 @@ Système modulaire facilement extensible
 
 👩‍💻 Réalisé par
 Elaa Mokrani — Licence en Ingénierie des Systèmes Informatiques
+
+<img width="942" height="850" alt="image" src="https://github.com/user-attachments/assets/a3cd4b20-4801-424f-af6f-6b7341fd8358" />
